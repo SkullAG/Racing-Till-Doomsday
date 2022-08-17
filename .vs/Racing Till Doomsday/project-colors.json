@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "445e947f-6096-ae58-f516-6eeebb9609ae": {
+      "ProjectGuid": "445e947f-6096-ae58-f516-6eeebb9609ae",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "7b559ac9-2f8e-929b-7bd0-3623a75e7521": {
+      "ProjectGuid": "7b559ac9-2f8e-929b-7bd0-3623a75e7521",
+      "DisplayName": "Mirror",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
